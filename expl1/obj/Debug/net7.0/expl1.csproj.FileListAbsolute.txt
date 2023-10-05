@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\сишарп попытка3\expl1\bin\Debug\net7.0\expl1.exe
+C:\Users\HP\Desktop\сишарп попытка3\expl1\bin\Debug\net7.0\expl1.deps.json
+C:\Users\HP\Desktop\сишарп попытка3\expl1\bin\Debug\net7.0\expl1.runtimeconfig.json
+C:\Users\HP\Desktop\сишарп попытка3\expl1\bin\Debug\net7.0\expl1.dll
+C:\Users\HP\Desktop\сишарп попытка3\expl1\bin\Debug\net7.0\expl1.pdb
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.AssemblyInfo.cs
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.dll
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\refint\expl1.dll
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.pdb
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\expl1.genruntimeconfig.cache
+C:\Users\HP\Desktop\сишарп попытка3\expl1\obj\Debug\net7.0\ref\expl1.dll
